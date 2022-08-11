@@ -16,13 +16,7 @@ return (
     
     <HeaderMiddle links={Homelinks}/>
     <Container>
-    <h2 >Mohamed Jamal - Rent a Tesla</h2>      
-            <Grid>
-                <Grid.Col span={3}><FeaturesCard /></Grid.Col>
-                <Grid.Col span={3}><FeaturesCard /></Grid.Col>
-                <Grid.Col span={3}><FeaturesCard /></Grid.Col>
-                <Grid.Col span={3}><FeaturesCard /></Grid.Col>
-            </Grid>
+        <h2>Users Page</h2>
         
         </Container>
         
